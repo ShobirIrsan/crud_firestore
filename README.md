@@ -1,4 +1,4 @@
-# crud_firestore
+# crud_firestore-flutter
 crud_firestore
 - ingat nama projek anda disesuaikan
 - isi file "main.dart" pada projek anda gantikan dengan file "main.dart" yang ada disini
